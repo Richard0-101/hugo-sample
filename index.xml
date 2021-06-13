@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam-dailylogs</title>
+    <link>/</link>
+    <description>Recent content on Sam-dailylogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Jun 2021 15:15:57 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DailyLogs</title>
+      <link>/posts/dailylogs/</link>
+      <pubDate>Sun, 13 Jun 2021 15:15:57 +0530</pubDate>
+      
+      <guid>/posts/dailylogs/</guid>
+      <description>This is my daily log</description>
+    </item>
+    
+  </channel>
+</rss>
